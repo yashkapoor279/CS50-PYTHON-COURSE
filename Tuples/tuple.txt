@@ -1,0 +1,8 @@
+1 - immutable   can be used where data cannot be changed
+2 - hetero
+3 - list []
+tuple{}
+
+len()
+min max
+saari same hoti hai list jaisi

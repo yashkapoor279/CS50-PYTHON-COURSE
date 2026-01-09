@@ -1,0 +1,5 @@
+key value pairs
+using dict() constructor 
+methods : get() keys() values() items() 
+mutable ... vaues can be changed 
+dynamic - can change the size 
